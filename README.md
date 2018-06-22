@@ -21,6 +21,7 @@ React-Native
 React Router
 Knex.js
 Express.js
+PostgreSQL
 Github Auth
 AWS
 Redux
